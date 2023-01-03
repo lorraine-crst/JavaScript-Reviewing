@@ -17,6 +17,7 @@ console.log(sobrenome, cidadeMoradia, cargo);
 let semDefinir;
 console.log(semDefinir);
 
+
 /*Exercicio*/
 // Declarar uma variavel com seu nome
 // Declarar uma variavel com sua idade
@@ -32,9 +33,8 @@ console.log(comidaFavorita);
 comidaFavorita = 'Pizza';
 console.log(comidaFavorita);
 //Declarar 5 variaveis diferentes sem valores
-let musicaFavorita;
-let lugarFavorito;
-let proximoObjetivo;
-let virarBilingue;
-let ler1livro = 'harry potter';
-console.log(ler1livro);
+let musicaFavorita,
+    lugarFavorito,
+    proximoObjetivo,
+    virarBilingue,
+    lerLivro;
