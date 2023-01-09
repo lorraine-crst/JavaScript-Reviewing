@@ -50,10 +50,11 @@ var soma = +'200' + 50;
 console.log(soma);
 
 
-// Incremente o número 5 e retorne o seu valor incrementado
+// Incremente o número 5 e retorne o seu valor
 var Incremento = 5,
     Incrementando = Incremento++;
 console.log(Incremento);
+
 
 // Como dividir o peso por 2?
 var peso = 60;
