@@ -37,4 +37,4 @@ let musicaFavorita,
     lugarFavorito,
     proximoObjetivo,
     virarBilingue,
-    lerLivro;
+    lerLivros;
